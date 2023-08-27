@@ -4,3 +4,6 @@
 [submodule "trabalhando-com-equipes-ageis"]
 	path = trabalhando-com-equipes-ageis
 	url = git@github.com:lucianodacunha/trabalhando-com-equipes-ageis
+[submodule "desafios-de-projetos-crie-um-porfolio-vencedor"]
+	path = desafios-de-projetos-crie-um-porfolio-vencedor
+	url = git@github.com:lucianodacunha/desafios-de-projetos-crie-um-porfolio-vencedor.git
