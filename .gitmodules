@@ -1,0 +1,3 @@
+[submodule "versionamento-de-codigo-com-git-e-github"]
+	path = versionamento-de-codigo-com-git-e-github
+	url = git@github.com:lucianodacunha/versionamento-de-codigo-com-git-e-github.git
