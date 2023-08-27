@@ -7,3 +7,6 @@
 [submodule "desafios-de-projetos-crie-um-porfolio-vencedor"]
 	path = desafios-de-projetos-crie-um-porfolio-vencedor
 	url = git@github.com:lucianodacunha/desafios-de-projetos-crie-um-porfolio-vencedor.git
+[submodule "contribuindo-em-um-projeto-open-source-no-github"]
+	path = contribuindo-em-um-projeto-open-source-no-github
+	url = git@github.com:lucianodacunha/contribuindo-em-um-projeto-open-source-no-github.git
