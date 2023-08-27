@@ -10,3 +10,6 @@
 [submodule "contribuindo-em-um-projeto-open-source-no-github"]
 	path = contribuindo-em-um-projeto-open-source-no-github
 	url = git@github.com:lucianodacunha/contribuindo-em-um-projeto-open-source-no-github.git
+[submodule "conhecendo-o-kotlin-e-sua-documentacao-oficial"]
+	path = conhecendo-o-kotlin-e-sua-documentacao-oficial
+	url = git@github.com:lucianodacunha/conhecendo-o-kotlin-e-sua-documentacao-oficial.git
