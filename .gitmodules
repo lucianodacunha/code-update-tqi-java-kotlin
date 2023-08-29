@@ -13,3 +13,6 @@
 [submodule "conhecendo-o-kotlin-e-sua-documentacao-oficial"]
 	path = conhecendo-o-kotlin-e-sua-documentacao-oficial
 	url = git@github.com:lucianodacunha/conhecendo-o-kotlin-e-sua-documentacao-oficial.git
+[submodule "introducao-pratica-a-linguagem-de-programacao-kotlin"]
+	path = introducao-pratica-a-linguagem-de-programacao-kotlin
+	url = git@github.com:lucianodacunha/introducao-pratica-a-linguagem-de-programacao-kotlin
