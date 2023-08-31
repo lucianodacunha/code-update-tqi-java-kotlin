@@ -16,3 +16,6 @@
 [submodule "introducao-pratica-a-linguagem-de-programacao-kotlin"]
 	path = introducao-pratica-a-linguagem-de-programacao-kotlin
 	url = git@github.com:lucianodacunha/introducao-pratica-a-linguagem-de-programacao-kotlin
+[submodule "estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin"]
+	path = estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin
+	url = git@github.com:lucianodacunha/estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin
