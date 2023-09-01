@@ -19,3 +19,6 @@
 [submodule "estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin"]
 	path = estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin
 	url = git@github.com:lucianodacunha/estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin
+[submodule "orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin"]
+	path = orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin
+	url = git@github.com:lucianodacunha/orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin.git
