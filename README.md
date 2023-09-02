@@ -39,7 +39,7 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
         <a href="https://github.com/lucianodacunha/o-poder-das-funcoes-em-kotlin">O Poder das Funções em Kotlin</a>        
     </li>
     <li>
-        <a href="#">OTratamento de Exceções em Kotlin</a>        
+        <a href="https://github.com/lucianodacunha/tratamento-de-excecoes-em-kotlin">OTratamento de Exceções em Kotlin</a>        
     </li>
     <li>
         <a href="#">Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin</a>        

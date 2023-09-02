@@ -25,3 +25,6 @@
 [submodule "o-poder-das-funcoes-em-kotlin"]
 	path = o-poder-das-funcoes-em-kotlin
 	url = git@github.com:lucianodacunha/o-poder-das-funcoes-em-kotlin
+[submodule "tratamento-de-excecoes-em-kotlin"]
+	path = tratamento-de-excecoes-em-kotlin
+	url = git@github.com:lucianodacunha/tratamento-de-excecoes-em-kotlin.git
