@@ -12,13 +12,13 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
 <details>
 <summary>Princípios de Desenvolvimento Ágil e Colaborativo</summary>
     <ul>
-        <li>Bootcamps DIO: Educação gratuita e empregabilidade juntas!</li>
-        <li>Trabalhando com equipes ágeis</li>
+        <li><a href="">Bootcamps DIO: Educação gratuita e empregabilidade juntas!</a></li>
+        <li><a href="https://github.com/lucianodacunha/trabalhando-com-equipes-ageis">Trabalhando com equipes ágeis</a></li>
         <li>
             <a href="https://github.com/lucianodacunha/versionamento-de-codigo-com-git-e-github/tree/fbd5ea023be7adb1e8c2f49ab399313752f670f4">Versionamento de Código com Git e GitHub</a></li>
-        <li>Desafios de Projetos: Crie Um Portfólio Vencedor</li>
-        <li>Contribuindo em um Projeto Open Source no GitHub</li>
-        <li>Aula Inaugural - Code Update TQI - Backend com Kotlin e Java</li>
+        <li><a href="https://github.com/lucianodacunha/desafios-de-projetos-crie-um-porfolio-vencedor/">Desafios de Projetos: Crie Um Portfólio Vencedor</a></li>
+        <li><a href="https://github.com/lucianodacunha/contribuindo-em-um-projeto-open-source-no-github">Contribuindo em um Projeto Open Source no GitHub</a></li>
+        <li><a href="">Aula Inaugural - Code Update TQI - Backend com Kotlin e Java</a></li>
     </ul>
 </details>
 <details>
@@ -29,6 +29,21 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
     <li>
         <a href="https://github.com/lucianodacunha/introducao-pratica-a-linguagem-de-programacao-kotlin">Introdução Prática à Linguagem de Programação Kotlin</a>
     </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/estruturas-de-controle-de-fluxo-e-colecoes-em-kotlin">Estruturas de Controle de Fluxo e Coleções em Kotlin</a>
+    </li>        
+    <li>
+        <a href="https://github.com/lucianodacunha/orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin/">Orientação a Objetos e Tipos de Classes na Prática com Kotlin</a>
+    </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/o-poder-das-funcoes-em-kotlin">O Poder das Funções em Kotlin</a>        
+    </li>
+    <li>
+        <a href="#">OTratamento de Exceções em Kotlin</a>        
+    </li>
+    <li>
+        <a href="#">Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin</a>        
+    </li>        
 </ul>
 </details>
 <details>
