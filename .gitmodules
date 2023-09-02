@@ -22,3 +22,6 @@
 [submodule "orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin"]
 	path = orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin
 	url = git@github.com:lucianodacunha/orientacao-a-objetos-e-tipos-de-classes-na-pratica-com-kotlin.git
+[submodule "o-poder-das-funcoes-em-kotlin"]
+	path = o-poder-das-funcoes-em-kotlin
+	url = git@github.com:lucianodacunha/o-poder-das-funcoes-em-kotlin
