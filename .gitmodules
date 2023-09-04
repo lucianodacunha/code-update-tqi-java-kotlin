@@ -28,3 +28,6 @@
 [submodule "tratamento-de-excecoes-em-kotlin"]
 	path = tratamento-de-excecoes-em-kotlin
 	url = git@github.com:lucianodacunha/tratamento-de-excecoes-em-kotlin.git
+[submodule "abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin"]
+	path = abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin
+	url = git@github.com:lucianodacunha/abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin.git
