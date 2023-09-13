@@ -31,3 +31,6 @@
 [submodule "abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin"]
 	path = abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin
 	url = git@github.com:lucianodacunha/abstraindo-formacoes-da-dio-usando-orientacao-a-objetos-com-kotlin.git
+[submodule "desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional"]
+	path = desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional
+	url = git@github.com:lucianodacunha/desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional.git
