@@ -34,3 +34,6 @@
 [submodule "desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional"]
 	path = desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional
 	url = git@github.com:lucianodacunha/desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional.git
+[submodule "explorando-padroes-de-projetos-na-pratica-com-kotlin"]
+	path = explorando-padroes-de-projetos-na-pratica-com-kotlin
+	url = git@github.com:lucianodacunha/explorando-padroes-de-projetos-na-pratica-com-kotlin.git
