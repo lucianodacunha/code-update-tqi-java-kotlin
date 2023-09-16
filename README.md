@@ -44,6 +44,9 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
     <li>
         <a href="#">Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin</a>        
     </li>        
+    <li>
+        <a href="#">Desenvolvendo sua primeira aplicação com Kotlin</a>        
+    </li>     
 </ul>
 </details>
 <details>

@@ -37,3 +37,6 @@
 [submodule "explorando-padroes-de-projetos-na-pratica-com-kotlin"]
 	path = explorando-padroes-de-projetos-na-pratica-com-kotlin
 	url = git@github.com:lucianodacunha/explorando-padroes-de-projetos-na-pratica-com-kotlin.git
+[submodule "kotlin-desenvolvendo-sua-primeira-aplicacao"]
+	path = kotlin-desenvolvendo-sua-primeira-aplicacao
+	url = git@github.com:lucianodacunha/kotlin-desenvolvendo-sua-primeira-aplicacao.git
