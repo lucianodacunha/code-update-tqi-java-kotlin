@@ -40,3 +40,6 @@
 [submodule "kotlin-desenvolvendo-sua-primeira-aplicacao"]
 	path = kotlin-desenvolvendo-sua-primeira-aplicacao
 	url = git@github.com:lucianodacunha/kotlin-desenvolvendo-sua-primeira-aplicacao.git
+[submodule "java-criando-a-sua-primeira-aplicacao"]
+	path = java-criando-a-sua-primeira-aplicacao
+	url = git@github.com:lucianodacunha/java-criando-a-sua-primeira-aplicacao.git

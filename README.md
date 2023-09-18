@@ -51,12 +51,46 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
 </details>
 <details>
 <summary>Explorando Padrões de Projetos na Prática com Kotlin</summary>
+<ul>
+    <li>
+        <a href="#">Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional</a>
+    </li>
+    <li>
+        <a href="#">Singleton</a>
+    </li>
+    <li>
+        <a href="#">Builder</a>
+    </li>
+    <li>
+        <a href="#">Adapter</a>
+    </li>
+    <li>
+        <a href="#">Extension Function</a>
+    </li>
+    <li>
+        <a href="#">Processamento Paralelo/Assíncrono</a>
+    </li>                    
+</ul>
 </details>
 <details>
 <summary>Trabalhando com Bancos de Dados SQL e NoSQL</summary>
 </details>
 <details>
 <summary>Ganhando Produtividade com Java e Spring Boot</summary>
+<ul>
+    <li>
+        <a href="https://github.com/lucianodacunha/java-criando-a-sua-primeira-aplicacao">Java: criando a sua primeira aplicação</a>
+    </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/java-aplicando-a-orientacao-a-objetos">Java: aplicando a Orientação a Objetos</a>
+    </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/java-trabalhando-com-listas-e-colecoes-de-dados">Java: trabalhando com listas e coleções de dados</a>
+    </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/java-consumindo-api-gravando-arquivos-e-lidando-com-erros">Java: consumindo API, gravando arquivos e lidando com erros</a>
+    </li>             
+</ul>
 </details>
 <details>
 <summary>Modernizando seu Backend com Kotlin e Spring Boot</summary>
