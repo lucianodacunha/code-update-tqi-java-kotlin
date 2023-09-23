@@ -46,3 +46,6 @@
 [submodule "java-aplicando-a-orientacao-a-objetos"]
 	path = java-aplicando-a-orientacao-a-objetos
 	url = git@github.com:lucianodacunha/java-aplicando-a-orientacao-a-objetos.git
+[submodule "java-trabalhando-com-listas-e-colecoes-de-dados"]
+	path = java-trabalhando-com-listas-e-colecoes-de-dados
+	url = git@github.com:lucianodacunha/java-trabalhando-com-listas-e-colecoes-de-dados.git
