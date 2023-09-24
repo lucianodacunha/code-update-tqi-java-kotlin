@@ -49,3 +49,6 @@
 [submodule "java-trabalhando-com-listas-e-colecoes-de-dados"]
 	path = java-trabalhando-com-listas-e-colecoes-de-dados
 	url = git@github.com:lucianodacunha/java-trabalhando-com-listas-e-colecoes-de-dados.git
+[submodule "java-consumindo-api-gravando-arquivos-e-lidando-com-erros"]
+	path = java-consumindo-api-gravando-arquivos-e-lidando-com-erros
+	url = git@github.com:lucianodacunha/java-consumindo-api-gravando-arquivos-e-lidando-com-erros.git
