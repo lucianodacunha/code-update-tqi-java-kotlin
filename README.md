@@ -90,6 +90,9 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
     <li>
         <a href="https://github.com/lucianodacunha/java-consumindo-api-gravando-arquivos-e-lidando-com-erros">Java: consumindo API, gravando arquivos e lidando com erros</a>
     </li>             
+    <li>
+        <a href="https://github.com/lucianodacunha/java-trabalhando-com-lambdas-streams-e-spring-framework/">Java: trabalhando com lambdas, streams e Spring Framework</a>
+    </li>       
 </ul>
 </details>
 <details>
