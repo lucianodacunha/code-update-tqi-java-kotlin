@@ -52,3 +52,6 @@
 [submodule "java-consumindo-api-gravando-arquivos-e-lidando-com-erros"]
 	path = java-consumindo-api-gravando-arquivos-e-lidando-com-erros
 	url = git@github.com:lucianodacunha/java-consumindo-api-gravando-arquivos-e-lidando-com-erros.git
+[submodule "java-trabalhando-com-lambdas-streams-e-spring-framework"]
+	path = java-trabalhando-com-lambdas-streams-e-spring-framework
+	url = git@github.com:lucianodacunha/java-trabalhando-com-lambdas-streams-e-spring-framework.git
