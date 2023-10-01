@@ -55,3 +55,6 @@
 [submodule "java-trabalhando-com-lambdas-streams-e-spring-framework"]
 	path = java-trabalhando-com-lambdas-streams-e-spring-framework
 	url = git@github.com:lucianodacunha/java-trabalhando-com-lambdas-streams-e-spring-framework.git
+[submodule "introducao-a-banco-de-dados-relacionais-sql"]
+	path = introducao-a-banco-de-dados-relacionais-sql
+	url = git@github.com:lucianodacunha/introducao-a-banco-de-dados-relacionais-sql.git
