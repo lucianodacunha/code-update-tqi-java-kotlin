@@ -75,6 +75,11 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
 <details>
 <summary>Trabalhando com Bancos de Dados SQL e NoSQL</summary>
 </details>
+<ul>
+    <li>
+        <a href="https://github.com/lucianodacunha/introducao-a-banco-de-dados-relacionais-sql">Introdução a Banco de Dados Relacionais (SQL)</a>        
+    </li>
+</ul>
 <details>
 <summary>Ganhando Produtividade com Java e Spring Boot</summary>
 <ul>
