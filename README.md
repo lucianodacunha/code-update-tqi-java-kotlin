@@ -78,6 +78,9 @@ Com foco em profissionais de níveis plenos e seniores que buscam crescimento na
     <li>
         <a href="https://github.com/lucianodacunha/introducao-a-banco-de-dados-relacionais-sql">Introdução a Banco de Dados Relacionais (SQL)</a>        
     </li>
+    <li>
+        <a href="https://github.com/lucianodacunha/introducao-a-banco-de-dados-nosql">Introdução a Banco de Dados NoSQL</a>        
+    </li>    
 </ul>
 </details>
 <details>

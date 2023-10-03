@@ -58,3 +58,6 @@
 [submodule "introducao-a-banco-de-dados-relacionais-sql"]
 	path = introducao-a-banco-de-dados-relacionais-sql
 	url = git@github.com:lucianodacunha/introducao-a-banco-de-dados-relacionais-sql.git
+[submodule "introducao-a-banco-de-dados-nosql"]
+	path = introducao-a-banco-de-dados-nosql
+	url = git@github.com:lucianodacunha/introducao-a-banco-de-dados-nosql.git
