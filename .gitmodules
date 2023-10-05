@@ -61,3 +61,6 @@
 [submodule "introducao-a-banco-de-dados-nosql"]
 	path = introducao-a-banco-de-dados-nosql
 	url = git@github.com:lucianodacunha/introducao-a-banco-de-dados-nosql.git
+[submodule "gerenciamento-de-dependencias-e-build-em-java-com-maven"]
+	path = gerenciamento-de-dependencias-e-build-em-java-com-maven
+	url = git@github.com:lucianodacunha/gerenciamento-de-dependencias-e-build-em-java-com-maven.git
